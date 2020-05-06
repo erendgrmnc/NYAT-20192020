@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddefdf9a-36fd-4611-ba16-74dfc12e5e8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1bM2ubYE41UosvC06UMiORrEDQL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddefdf9a-36fd-4611-ba16-74dfc12e5e8a" name="Default Changelist" comment="" />
+      <created>1588427865936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588427865936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1061" y="432" key="FileChooserDialogImpl" timestamp="1588428065949">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="432" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1280.1024@0.0.2560.1400" timestamp="1588428065949" />
+    <state x="731" y="311" key="new project wizard" timestamp="1588428068586">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="731" y="311" key="new project wizard/0.0.2560.1400/3840.0.1280.1024@0.0.2560.1400" timestamp="1588428068586" />
+  </component>
+</project>
